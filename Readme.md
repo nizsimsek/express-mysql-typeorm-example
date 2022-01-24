@@ -1,7 +1,7 @@
 # **ExpressJS TypeORM example**
 **I am learning NodeJS and external libraries. I tried TypeORM, MySQL and Express JS in this repository.**
 
-![TWITTER](https://img.shields.io/twitter/follow/ilahinizo?color=black&label=Twitter&logo=Twitter&style=for-the-badge)
+[![TWITTER](https://img.shields.io/twitter/follow/ilahinizo?color=black&label=Twitter&logo=Twitter&style=for-the-badge)](https://twitter.com/ilahinizo/)
 ![TypeScript-V](https://img.shields.io/npm/dependency-version/typescript/dev/typescript?color=black&label=TypeScript&logo=TypeScript&style=for-the-badge)
 [![NPM-V](https://img.shields.io/npm/v/npm/next-8?color=black&label=Npm&logo=Npm&style=for-the-badge)](https://www.npmjs.com/package/npm/v/8.3.1)
 [![Express-V](https://img.shields.io/npm/v/express/latest?color=black&label=ExpressJs&logo=Express&style=for-the-badge)](https://www.npmjs.com/package/express/v/4.17.2)
